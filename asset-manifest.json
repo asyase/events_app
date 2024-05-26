@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/events_app/static/css/main.55399d3c.chunk.css",
+    "main.js": "/events_app/static/js/main.9131b750.chunk.js",
+    "main.js.map": "/events_app/static/js/main.9131b750.chunk.js.map",
+    "runtime-main.js": "/events_app/static/js/runtime-main.76bce91b.js",
+    "runtime-main.js.map": "/events_app/static/js/runtime-main.76bce91b.js.map",
+    "static/js/2.af065c1a.chunk.js": "/events_app/static/js/2.af065c1a.chunk.js",
+    "static/js/2.af065c1a.chunk.js.map": "/events_app/static/js/2.af065c1a.chunk.js.map",
+    "static/js/3.33b8fbf3.chunk.js": "/events_app/static/js/3.33b8fbf3.chunk.js",
+    "static/js/3.33b8fbf3.chunk.js.map": "/events_app/static/js/3.33b8fbf3.chunk.js.map",
+    "index.html": "/events_app/index.html",
+    "static/css/main.55399d3c.chunk.css.map": "/events_app/static/css/main.55399d3c.chunk.css.map",
+    "static/js/2.af065c1a.chunk.js.LICENSE.txt": "/events_app/static/js/2.af065c1a.chunk.js.LICENSE.txt",
+    "static/media/EventList.css": "/events_app/static/media/AvenirLTStd-Roman.0bfb049d.otf",
+    "static/media/FilterList.css": "/events_app/static/media/arrow.c381148f.svg",
+    "static/media/EventCard.css": "/events_app/static/media/fav-unpressed.405cea49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76bce91b.js",
+    "static/js/2.af065c1a.chunk.js",
+    "static/css/main.55399d3c.chunk.css",
+    "static/js/main.9131b750.chunk.js"
+  ]
+}
